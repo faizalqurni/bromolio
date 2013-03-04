@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	font-family: Open Sans, Helvetica, Arial;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background: #2c5776 url(img/bg.jpg)no-repeat;
+	background-size: cover;
+}
+
+#container{
+	height: 550px;
+	background: rgba(0, 0, 0, 0.5);
+}
+#content{
+	width: 80%;
+	margin: auto;
+	padding-top: 275px;	
+}
+
+
+
+h1.logo{
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+}
+p{
+	font-size: 15px;
+	line-height: 27px;
+	text-align: center;
+}
+
+#credit{
+	margin-top: 30px;	
+}
