@@ -23,7 +23,6 @@ body{
 }
 
 
-
 h1.logo{
 	text-transform: uppercase;
 	text-align: center;
@@ -31,7 +30,7 @@ h1.logo{
 }
 p{
 	font-size: 15px;
-	line-height: 26px;
+	line-height: 27px;
 	text-align: center;
 }
 
